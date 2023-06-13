@@ -26,13 +26,6 @@ export default function Register() {
         name="password"
         placeholder="Please enter your password..."
       />
-      <InputForm
-        htmlFor="confirmPassword"
-        label="Confirm Password"
-        type="password"
-        name="confirmPassword"
-        placeholder="Please enter confirm password..."
-      />
       <Button text="Register" />
     </form>
   );
