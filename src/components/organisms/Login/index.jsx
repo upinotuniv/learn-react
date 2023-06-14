@@ -1,6 +1,7 @@
 import React from "react";
 import InputForm from "../../molecules";
 import Button from "../../atoms/Button";
+import { Link } from "react-router-dom";
 
 export default function Login() {
   return (
@@ -19,7 +20,9 @@ export default function Login() {
         name="password"
         placeholder="Please enter your password..."
       />
-      <Button text="Login" />
+      <Link to="/product">
+        <Button text="Login" />
+      </Link>
     </form>
   );
 }

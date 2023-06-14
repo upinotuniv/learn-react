@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import SignIn from "./components/pages/sign-in.jsx";
 import SignUp from "./components/pages/sign-up.jsx";
+import Product from "./components/pages/products.jsx";
 import ErrorPage from "./components/pages/error-page.jsx";
 import "./index.css";
 
@@ -15,6 +16,10 @@ const router = createBrowserRouter([
   {
     path: "/register",
     element: <SignUp />,
+  },
+  {
+    path: "/product",
+    element: <Product />,
   },
 ]);
 
