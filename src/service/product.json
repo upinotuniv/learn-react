@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "row": "flex-row-reverse",
+        "image": "bg-redmiOne",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus tempore sint ipsa officia? Sunt accusantium qui beatae, dignissimos, nesciunt minima architecto officiis, perferendis deleniti earum dolore accusamus nihil! Mollitia architecto, sit dolor ut repellendus eos natus, sint qui odit quod porro nisi consequatur iste perspiciatis fugiat nesciunt ab rem? Totam odit nulla deserunt rerum praesentium aliquam voluptatem, recusandae blanditiis necessitatibus, similique facere excepturi tenetur cum, maiores provident repudiandae ullam labore quae! Iste, similique cumque totam ad at suscipit voluptas, esse, quaerat sunt quis in vel cupiditate necessitatibus reprehenderit? Dolore accusantium consequatur dicta commodi veniam magni eius, excepturi velit impedit aperiam?"
+    },
+    {
+        "id": 2,
+        "row": "flex-row",
+        "image": "bg-redmiTwo",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus tempore sint ipsa officia? Sunt accusantium qui beatae, dignissimos, nesciunt minima architecto officiis, perferendis deleniti earum dolore accusamus nihil! Mollitia architecto, sit dolor ut repellendus eos natus, sint qui odit quod porro nisi consequatur iste perspiciatis fugiat nesciunt ab rem? Totam odit nulla deserunt rerum praesentium aliquam voluptatem, recusandae blanditiis necessitatibus, similique facere excepturi tenetur cum, maiores provident repudiandae ullam labore quae! Iste, similique cumque totam ad at suscipit voluptas, esse, quaerat sunt quis in vel cupiditate necessitatibus reprehenderit? Dolore accusantium consequatur dicta commodi veniam magni eius, excepturi velit impedit aperiam?"
+    },
+    {
+        "id": 3,
+        "row": "flex-row-reverse",
+        "image": "bg-redmiThree",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus tempore sint ipsa officia? Sunt accusantium qui beatae, dignissimos, nesciunt minima architecto officiis, perferendis deleniti earum dolore accusamus nihil! Mollitia architecto, sit dolor ut repellendus eos natus, sint qui odit quod porro nisi consequatur iste perspiciatis fugiat nesciunt ab rem? Totam odit nulla deserunt rerum praesentium aliquam voluptatem, recusandae blanditiis necessitatibus, similique facere excepturi tenetur cum, maiores provident repudiandae ullam labore quae! Iste, similique cumque totam ad at suscipit voluptas, esse, quaerat sunt quis in vel cupiditate necessitatibus reprehenderit? Dolore accusantium consequatur dicta commodi veniam magni eius, excepturi velit impedit aperiam?"
+    }
+]
