@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "/images/alex-suprun-ZHvM3XIOHoE-unsplash.jpg",
+        "user": "Asep Rucika",
+        "message": "Redmi 10 nya mantap. Jawaranya Entry level.."
+    },
+    {
+        "id": 2,
+        "image": "/images/julian-wan-2EdIX-O2lkI-unsplash.jpg",
+        "user": "Cecil Jawir",
+        "message": "pokoke jos tenan"
+    },
+    {
+        "id": 3,
+        "image": "/images/leio-mclaren-L2dTmhQzx4Q-unsplash.jpg",
+        "user": "Ucup Suherman",
+        "message": "Keren banget. Desainnya Oke punya."
+    }
+]
