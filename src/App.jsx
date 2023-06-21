@@ -1,4 +1,6 @@
 import { useState, useEffect } from "react";
+import AuthLayout from "./components/templates/AuthLayout";
+import Login from "./components/organisms/Login";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -24,7 +26,8 @@ function App() {
 
   return (
     <>
-      <div className="flex flex-col justify-center items-center min-h-screen space-y-4">
+      {/* useEffect */}
+      {/* <div className="flex flex-col justify-center items-center min-h-screen space-y-4">
         <h1 className="text-5xl font-extrabold">COUNTER</h1>
         <div className="flex justify-between items-center gap-x-8">
           <button
@@ -41,7 +44,12 @@ function App() {
             +
           </button>
         </div>
-      </div>
+      </div> */}
+
+      {/* useRef */}
+      <AuthLayout title="Sign-In" desc="Please Login" type="login">
+        <Login />
+      </AuthLayout>
     </>
   );
 }
