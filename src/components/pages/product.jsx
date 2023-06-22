@@ -97,7 +97,12 @@ export default function ProductPage() {
       <div className="flex w-full px-6 py-16 mb-32 gap-x-4">
         <div className="flex flex-1 flex-wrap justify-center items-start gap-6">
           {data.map((items) => (
-            <Card key={items.id}>
+            <Card
+              key={items.id}
+              onClick={() =>
+                (window.location.href = `/detail-product/${items.id}`)
+              }
+            >
               <Card.Header src={items.image} />
               <Card.Body
                 title={items.title}

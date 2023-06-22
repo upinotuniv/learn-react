@@ -1,9 +1,12 @@
 import React from "react";
 
 export default function Card(props) {
-  const { children } = props;
+  const { children, onClick } = props;
   return (
-    <div className="flex justify-center flex-wrap items-center w-[40%] h-[35%] bg-gray-100 border rounded-lg drop-shadow-lg">
+    <div
+      className="flex justify-center flex-wrap items-center w-[40%] h-[35%] bg-gray-100 border rounded-lg drop-shadow-lg cursor-pointer"
+      onClick={onClick}
+    >
       {children}
     </div>
   );
